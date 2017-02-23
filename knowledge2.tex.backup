@@ -121,6 +121,32 @@ Maria the Jewess is the first female alchemist and is credited with the inventio
 \\Hypatia was a Greek mathematician, astronomer and philosopher in Egypt. She was the head of Neoplatonic school of Alexandria. Her contributions are considered as invention of the hydrometer used to determine the relative density (or specific gravity) of liquids. She worked collaboratively with her father on many works.\\
 
 \subsection{Modern Period}
+
+\newblock
+Christine de Pizan is a fifteenth-century writer in France. She is the author of the Book of the City of the Ladies. She was an early feminist who challenged her culture's stereotypes of women.She wrote love ballads, books supporting and extolling the powers and virtues of women (including a response to Jean de Meun's Roman de la rose), and a work about Joan of Arc.\cite{christine}\\
+
+\begin{center}
+\begin{figure}[h]
+\centering
+ \includegraphics[scale=0.7]{christine.jpg}
+ \caption{Christine de Pizan}
+\end{figure}
+\end{center}
+
+\newblock
+\\
+Maria Sibylla Merian was a Naturalist, an Entymologist and a Botanical Illustrator.
+
+
+\begin{center}
+\begin{figure}[h]
+\centering
+ \includegraphics[scale=0.7]{maria.jpg}
+ \caption{Maria Sibylla Merian}
+\end{figure}
+\end{center}
+
+
 \subsection{Current Era}
 \section{Analysis}
 \section{Conclusion}
@@ -146,6 +172,9 @@ https://sites.google.com/site/shrineathenapromachos/prayers-poems
 
 \bibitem{merit}
 http://www.ancient.eu/article/49/
+
+\bibitem{christine}
+http://historymedren.about.com/od/cwho/a/Christine-De-Pizan-Quotes.htm
 
 \end{thebibliography}
 
