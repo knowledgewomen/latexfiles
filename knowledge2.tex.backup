@@ -28,22 +28,20 @@ This paper explores the effort and dedication put forth by the aforementioned pe
 \section{Case-Studies}
 
 \subsection{Historical Period}
-In Vedic period, three Goddesses namely, Illa, Saraswati and Mahi has been quoted for the purpose of acquiring knowledge as [1]:
- 
-"ā no yajňaṁ bhāratī tῡyam etu, iḷā manuṣvad iha cetayantī;
-tisro devīr barhir edaṁ syonaṁ, sarasvatī svapasaḥ sadantu.
+In Vedic period, three Goddesses namely, Illa, Saraswati and Mahi has been quoted for the purpose of acquiring knowledge as \cite{saras}: 
+
 “May Bharati come speeding to our sacrifice and Ila hither awakening our consciousness in human wise, and Saraswati, — three goddesses sit on this blissful seat, doing well the
 Work.” 
 The image of Goddess (Figure 1) portrays a musical instrument called Veena holding in  two hands, a book in one hand and a tiny garland in another hand. These represent music, knowledge and inner bliss, respectively. 
-
-\begin{figure}
+\begin{center}
+\begin{figure}[h]
+\centering
  \includegraphics[scale=0.7]{saraswati.png}
  \caption{Goddess Sarawati}
 \end{figure}
+\end{center}
 
 The Vedic period has seen intellectuals like Gargi and Maithreyi. Gargi Vachnaknavi, who lived during 700 BC was honored as a great philosopher \cite{Gargi}. The debate between Gargi and Yajnavalkya has been specified in Brihadaranyaka Upanishad, in which Gargi puts forth a series of thought provoking questions to Yajnavalkya. A few such questions from this debate is given below. \\
-
-
 
 
 \textit{Yajnavalkya ,`` said she, ``if all this is pervaded by water, by  what, pray, is water pervaded?''} \\
@@ -59,17 +57,81 @@ On a similar front, in the Indian Epic Mahabharatha, there are instances of wome
 In South India, around First or Second Century A.D. there was a Tamil Poet called Avvaiyaar. She can be considered as one of the pioneers in Science also, because she specifies about the information of energy of atom in one of her poems as: \\
 \begin{center}
 ``aNuvaith thuLaiththu Ez kadalai puguththi'' \\
-\textit{Energy of seven seas within a pierced atom}
+\textit{Energy of seven seas within a pierced atom}\\
 \end{center}
+\newblock
+According to the Greek Mythology, Athena is the embodiment of wisdom and power.\\
+Various poems written for her by Odysseus G. Osborne spot light the depth of powers that the Goddess has.\\
+\begin{center}
+\begin{figure}[h]
+\centering
+ \includegraphics[scale=0.7]{athena_7.jpg}
+ \caption{Goddess Sarawati}
+\end{figure}
+\end{center}
+
+One of the many poems written on Athena in relation to Wisdom as \cite{athena}:\\
+
+
+\textit{Marshal of Wisdom}\\
+\textit{give the gift as you resolve,}\\
+\textit{As a Lance of Glory,}\\
+\textit{Heralding your puissant strike!}\\
+\textit{Or like a silent owl}\\
+\textit{A glide on the Nights wind}\\
+\textit{With talons wide!}\\
+\textit{Mighty Athena! Let me be re-born of your thunderbolt!}\\
+
+\newblock
+Minerva was the Roman Goddess of Wisdom and war. She is believed to be the inventor of numbers and musical instruments. She was later equated with the Greek Goddess of Wisdom, Athena.
+
+She was called as the “goddess of thousand works” by Ovid, a Roman poet. She was being worshipped on the Capitoline Hill along with Jupiter and Juno as the Powerful triad of Gods.
+
 \subsection{Medieval Period}
+\newblock
+Merit-Ptah is believed by Egytologists to be the first-ever named Physician. She is most notable for being the first woman known by name in the history of the field of medicine, and also the first named woman in all of science as well.\\
+
+She practiced medicine nearly 5,000 years ago, and was immortalized by her son on her tomb as “the chief physician”\cite{merit}.
+\begin{center}
+\begin{figure}[h]
+\centering
+ \includegraphics[scale=0.7]{meritptah.jpg}
+ \caption{Merit Ptah}
+\end{figure}
+\end{center}
+
+\newblock
+Mythologically According to Homer, Agamede was, according to Homer, a Greek physician acquainted with the healing powers of all the plants that grow upon the earth.\\
+
+\newblock
+Agnodike was the first female Athenian physician, midwife, gynaecologist. She studied in Alexandria under the great Herophilos, the first anotomist.
+
+\begin{center}
+\begin{figure}[h]
+\centering
+ \includegraphics[scale=0.7]{agnodice.jpg}
+ \caption{Agnodike}
+\end{figure}
+\end{center}
+
+\newblock
+Maria the Jewess is the first female alchemist and is credited with the invention of several chemaical apparatus.
+
+\newblock
+\\Hypatia was a Greek mathematician, astronomer and philosopher in Egypt. She was the head of Neoplatonic school of Alexandria. Her contributions are considered as invention of the hydrometer used to determine the relative density (or specific gravity) of liquids. She worked collaboratively with her father on many works.\\
+
 \subsection{Modern Period}
 \subsection{Current Era}
 \section{Analysis}
 \section{Conclusion}
 \begin{thebibliography}{9}
- \bibitem{Gargi}
+
+\bibitem{sara}
+http://www.universityofhumanunity.org/biblios/Sarasvati%20in%20the%20Veda%20-%20Part%201.pdf
+
+\bibitem{Gargi}
 Ahuja, M.L. 
-\newblock 2011.
+\newblock {2011.}
 \newblock { Women in Indian Mythology}
 \newblock {Rupa Publications}
 
@@ -78,6 +140,12 @@ Ahuja, M.L.
 \newblock{The Mahabharata of Krishna-Dwaipayana Vyasa}
 \newblock{Translation from original Sanskrit Text}
 \newblock{http://sacred-texts.com/hin/maha/index.htm}
+
+\bibitem{athena}
+https://sites.google.com/site/shrineathenapromachos/prayers-poems
+
+\bibitem{merit}
+http://www.ancient.eu/article/49/
 
 \end{thebibliography}
 
