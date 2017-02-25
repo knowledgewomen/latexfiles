@@ -17,13 +17,7 @@
 \maketitle
 
 \begin{abstract}
-Since ancient times, women have been held at an esteemed position in terms of knowledge. This paper tries to address the role of women who have raised the scientific levels to great heights both from the Western and Indian Perspective. From the western viewpoint,  there has been evidences of Greeks and Romans worshipping Goddess Athena and Minerva, respectively. On a similar note, Indians have regarded Goddess Saraswati as the mother of knowledge and wisdom. The intellectual calibre of Indian women has been explicitly stated in the epics and puranas. For example, there is a mention in Mahabharata indicating the managerial capabilities of Draupadi. These characters, albeit mythological portray the essence of the limitless capabilities of women.
-
-Starting from the historic times, the western world has seen women professionals. Some of them are Merit-Ptah the first known physician from Ancient Egypt, Agamede the first female healer from Greece, Hypatia first known woman mathematician, Charlotta Frolich first female historian,  Marie Curie first woman to win a nobel prize, Laura Bassi first woman to earn a university chair (18th century),  Ada Lovelace first woman programmer, Grace Hopper woman who invented first compiler and Mary Anning Paleontologist.
-
-A few remarkable Indians are Avvaiyar, who was one of the greatest poets of all times,  Gargi and Maithreyi, who are mentioned in the Upanishad texts,  the saint poet Mirabhai, Leelavathi, the mathematician and astrologer, Razia Sultana a monarch, the south asian physicians Kadambini Ganguly and Anandhi Gopal Joshi, the meteorologist Anna Manni, Sarla Takral who was the first woman to fly an aircraft and in the present scenario Dr. Shantha, who is heading the Adayar Cancer Institute. 
-
-This paper explores the effort and dedication put forth by the aforementioned personalities with a hope that it will create an inspiration to the present generation female individuals
+Since ancient times, women have been held at an esteemed position in terms of knowledge. This paper tries to address the role of women who have raised the scientific levels to great heights both from the Indian and Western Perspective. From the Indian perspective, Indians have regarded Goddess Saraswat\={i} as the mother of knowledge and wisdom. The intellectual calibre of Indian women has been explicitly stated in the epics and puranas. From the western viewpoint,  there has been evidences of Greeks and Romans worshipping Goddess Athena and Minerva, respectively. These characters, albeit mythological portray the essence of the limitless capabilities of women. Starting from the historic times, India have seen remarkable individuals with scientific aptitude. A few of them are Gargi, Avvaiy\={a}r and L\={i}l\={a}vati. In the modern times, a few women excelled in the field of mathematics, physics, chemistry and medicine. Similarly, Egyptians, Greeks and Romans have had women professionals in the past. In the recent times, Ada Lovelace and Gracehopper have made breakthroughs in technology. This paper attempts to give a brief outlook of some of these individuals in the field of language, mathematics and science with a focus on knowledge. 
 \end{abstract}
 \section{Introduction}
 %\section{}
@@ -31,11 +25,10 @@ This paper explores the effort and dedication put forth by the aforementioned pe
 \section{Historical Period}
 
 \subsection{Indian Personalities}
-In Vedic period, three Goddesses namely, Illa, Saraswati and Mahi has been quoted for the purpose of acquiring knowledge as \cite{saras}: 
+In Vedic period, three Goddesses namely, \textbf{Illa, Saraswat\={i} and Mahi} have been quoted for the purpose of acquiring knowledge as \cite{saras}: \\
+“May Bharati (Mahi) come speeding to our sacrifice and Ila hither awakening our consciousness in human wise, and Saraswat\={i}, — three goddesses sit on this blissful seat, doing well the Work.” \\
 
-“May Bharati come speeding to our sacrifice and Ila hither awakening our consciousness in human wise, and Saraswati, — three goddesses sit on this blissful seat, doing well the
-Work.” 
-The image of Goddess (Figure 1) portrays a musical instrument called Veena holding in  two hands, a book in one hand and a tiny garland in another hand. These represent music, knowledge and inner bliss, respectively. 
+The image of the \textbf{Goddess Saraswat\={i}} (Figure 1) portrays a musical instrument called Veena holding in  two hands, a book in one hand and a tiny garland in another hand. These represent music, knowledge and inner bliss, respectively. 
 \begin{center}
 \begin{figure}[h]
 \centering
@@ -44,8 +37,7 @@ The image of Goddess (Figure 1) portrays a musical instrument called Veena holdi
 \end{figure}
 \end{center}
 
-The Vedic period has seen intellectuals like Gargi and Maithreyi. Gargi Vachnaknavi, who lived during 700 BC was honored as a great philosopher \cite{Gargi}. The debate between Gargi and Yajnavalkya has been specified in Brihadaranyaka Upanishad, in which Gargi puts forth a series of thought provoking questions to Yajnavalkya. A few such questions from this debate is given below. \\
-
+The Vedic period has seen intellectuals like \textbf{Gargi and Maitreyi}. Gargi Vachnaknavi, who lived during 700 BC was honored as a great philosopher \cite{Gargi}. The debate between Gargi and Yajnavalkya has been specified in Brihadaranyaka Upanishad, in which Gargi puts forth a series of thought provoking questions to Yajnavalkya. A few such questions from this debate are given below. \\
 
 \textit{Yajnavalkya ,`` said she, ``if all this is pervaded by water, by  what, pray, is water pervaded?''} \\
 \textit{``By air, O Gargi.", replied Yajnavalkya.} \\
@@ -53,23 +45,21 @@ The Vedic period has seen intellectuals like Gargi and Maithreyi. Gargi Vachnakn
 \textit{``By the sky, O Gargi."} \\
 \textit{``By what is the sky pervaded?"}  \\
 
-These questions clearly indicate scientific thought process of Indian Women. 
+These questions clearly indicate depth of thought that Women possess. On a similar front, in the Indian Epic Mahabharatha, there are instances of women empowerment. \textbf{Draupadi} is known to have managed the people and wealth in the palace \cite{mahabharatha}. 
 
-On a similar front, in the Indian Epic Mahabharatha, there are instances of women empowerment. Draupadi is known to have managed the people and wealth in the palace \cite{mahabharatha}. 
-
-In South India, around First or Second Century A.D. there was a Tamil Poet called Avvaiyaar. She can be considered as one of the pioneers in Science also, because she specifies about the information of energy of atom in one of her poems as: \\
+In South India, around First or Second Century A.D. there was a Tamil Poet called \textbf{Avvaiy\={a}r}. In one of her poems, she specifies about the information of energy of an atom as \\
 \begin{center}
 ``aNuvaith thuLaiththu Ez kadalai puguththi'' \\
 \textit{Energy of seven seas within a pierced atom}\\
 \end{center}
+This line indicates the level of scientific thought process in those days. 
 
-
-\textbf{Lilavati} was the daughter of Bhaskara (during 1150 A.D), who was one of the pioneers in Indian mathematics. The tale goes like this: Lilavati was an intelligent and inquisitive child and Bhaskara had always kept an eye on this nature of hers. However, when Bhaskara analysed her horroscope, he was shocked to see that her marriage will be short-lived. To circumvent this issue, Bhaskara prepared a perfect device that could calculate the auspicious time for her marriage. Lilavati's curiousness drew her close to the device (when her father was not near) and while examining, the pearl that she was wearing fell into the device. The calculations went awry and the auspicious time was missed. Eventually, Lilavati got married, but as feared it was short-lived. Soon after this incidence, Lilavati was extremely upset and was not able to lead her regular normal activities. In order to remove her worries, Bhaskara posed a lot of arithmeic puzzles which made her busy. These questions later on helped her to be the 
+\textbf{L\={i}l\={a}vati} was the daughter of Bhaskara (during 1150 A.D), who was one of the pioneers in Indian mathematics. The tale goes like this: L\={i}l\={a}vati was an intelligent and inquisitive child and Bhaskara had always kept an eye on this nature of hers. However, when Bhaskara analysed her horroscope, he was shocked to see that her marriage will be short-lived. To circumvent this issue, Bhaskara prepared a perfect device that could calculate the auspicious time for her marriage. L\={i}l\={a}vati's curiousness drew her close to the device (when her father was not near) and while examining, the pearl that she was wearing fell into the device. The calculations went awry and the auspicious time was missed. Eventually, L\={i}l\={a}vati got married, but as feared it was short-lived. Soon after this incidence, L\={i}l\={a}vati was extremely upset and was not able to lead her regular normal activities. In order to overcome her worries, Bhaskara posed a lot of arithmeic puzzles which made her busy. These questions later on helped her to be the 
 greatest mathematicians of all times \cite{lilavati}. 
 
 \subsection{Western Personalities}
 \newblock
-According to the Greek Mythology, Athena is the embodiment of wisdom and power.\\
+According to the Greek Mythology, \textbf{Athena} is the embodiment of wisdom and power.\\
 Various poems written for her by Odysseus G. Osborne spot light the depth of powers that the Goddess has.\\
 \begin{center}
 \begin{figure}[h]
@@ -80,8 +70,7 @@ Various poems written for her by Odysseus G. Osborne spot light the depth of pow
 \end{center}
 
 One of the many poems written on Athena in relation to Wisdom as \cite{athena}:\\
-
-
+\begin{center}
 \textit{Marshal of Wisdom}\\
 \textit{give the gift as you resolve,}\\
 \textit{As a Lance of Glory,}\\
@@ -90,21 +79,18 @@ One of the many poems written on Athena in relation to Wisdom as \cite{athena}:\
 \textit{A glide on the Nights wind}\\
 \textit{With talons wide!}\\
 \textit{Mighty Athena! Let me be re-born of your thunderbolt!}\\
+\end{center}
 
 \newblock
-Minerva was the Roman Goddess of Wisdom and war. She is believed to be the inventor of numbers and musical instruments. She was later equated with the Greek Goddess of Wisdom, Athena.
+\textbf{Minerva} was the Roman Goddess of Wisdom and war. She is believed to be the inventor of numbers and musical instruments. She was later equated with the Greek Goddess of Wisdom, Athena.
 
 She was called as the “goddess of thousand works” by Ovid, a Roman poet. She was being worshipped on the Capitoline Hill along with Jupiter and Juno as the Powerful triad of Gods.
 
-
- 
+\newblock
+Mythologically According to Homer, \textbf{Agamede} was a Greek physician acquainted with the healing powers of all the plants that grow upon the earth.\\
 
 \newblock
-Mythologically According to Homer, Agamede was a Greek physician acquainted with the healing powers of all the plants that grow upon the earth.\\
-
-
-\newblock
-Merit-Ptah is believed by Egytologists to be the first-ever named Physician. She is most notable for being the first woman known by name in the history of the field of medicine, and also the first named woman in all of science as well.\\
+\textbf{Merit-Ptah} is believed by Egytologists to be the first-ever named Physician. She is most notable for being the first woman known by name in the history of the field of medicine, and also the first named woman in all of science as well.\\
 
 She practiced medicine nearly 5,000 years ago, and was immortalized by her son on her tomb as “the chief physician”\cite{merit}.
 \begin{center}
@@ -116,7 +102,7 @@ She practiced medicine nearly 5,000 years ago, and was immortalized by her son o
 \end{center}
 
 \newblock
-Agnodike was the first female Athenian physician, midwife, gynaecologist. She studied in Alexandria under the great Herophilos, the first anotomist.
+\textbf{Agnodike} was the first female Athenian physician, midwife, gynaecologist. She studied in Alexandria under the great Herophilos, the first anotomist.
 
 \begin{center}
 \begin{figure}[h]
@@ -127,10 +113,10 @@ Agnodike was the first female Athenian physician, midwife, gynaecologist. She st
 \end{center}
 
 \newblock
-Maria the Jewess is the first female alchemist and is credited with the invention of several chemaical apparatus.
+\textbf{Maria the Jewess} are the first female alchemist and is credited with the invention of several chemaical apparatus.
 
 \newblock
-\\Hypatia was a Greek mathematician, astronomer and philosopher in Egypt. She was the head of Neoplatonic school of Alexandria. Her contributions are considered as invention of the hydrometer used to determine the relative density (or specific gravity) of liquids. She worked collaboratively with her father on many works.\\
+\textbf{Hypatia} was a Greek mathematician, astronomer and philosopher in Egypt. She was the head of Neoplatonic school of Alexandria. Her contributions are considered as invention of the hydrometer used to determine the relative density (or specific gravity) of liquids. She worked collaboratively with her father on many works.\\
 
 \section{Modern Period}
 \subsection{Scientific women personalities from India}
@@ -220,7 +206,7 @@ Ada Lovelace
 Grace Hopper
 
 \section{Analysis}
-The biographies of each of the aforementioned individuals provide the proof of the accompolishment in varied fields. An analysis in terms of the field and the challenges that they faced are provided in Table \ref{tab:analysis} below.
+The biographies of each of the aforementioned individuals provide the proof of the accompolishment in varied fields. An analysis in terms of the field and the challenges that they faced are provided in Table \ref{tab:analysis}.
 \begin{table}
 \label{tab:analysis}
 \caption{Analysis of a few female personalities}
@@ -320,6 +306,7 @@ Area of Excellence : \\
 Challenges faced : \\
 
 \section{Conclusion}
+This paper explores he effort and dedication put forth by a few female personalities on the scientifc front with a hope that it will create an inspiration to the present generation female individuals
 \begin{thebibliography}{9}
 
 \bibitem{saras}

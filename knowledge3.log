@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.11.5)  25 FEB 2017 14:10
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.11.5)  25 FEB 2017 17:57
 entering extended mode
  %&-line parsing enabled.
 **knowledge3.tex
@@ -558,16 +558,25 @@ LaTeX Info: Redefining \pageref on input line 15.
 \openout3 = `knowledge3.out'.
 
 \AtBeginShipoutBox=\box29
- <saraswati.png, id=40, 121.95563pt x 155.83218pt>
-File: saraswati.png Graphic file (type png)
 
-<use saraswati.png>
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+<saraswati.png, id=40, 121.95563pt x 155.83218pt>
+File: saraswati.png Graphic file (type png)
+ <use saraswati.png>
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--55
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
@@ -575,71 +584,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--55
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./saraswati.png (PNG copy)
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--74
-
- []
-
-<athena_7.jpg, id=58, 301.125pt x 228.855pt>
+<athena_7.jpg, id=60, 301.125pt x 228.855pt>
 File: athena_7.jpg Graphic file (type jpg)
  <use athena_7.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--93
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
 
-[2 <./athena_7.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 106--108
-
- []
-
-<meritptah.jpg, id=71, 240.9pt x 210.7875pt>
+[2 <./athena_7.jpg>] <meritptah.jpg, id=71, 240.9pt x 210.7875pt>
 File: meritptah.jpg Graphic file (type jpg)
- <use meritptah.jpg>
-<agnodice.jpg, id=72, 250.9375pt x 228.855pt>
+
+<use meritptah.jpg> <agnodice.jpg, id=72, 250.9375pt x 228.855pt>
 File: agnodice.jpg Graphic file (type jpg)
- <use agnodice.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
+
+<use agnodice.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
 
  []
 
 [3 <./meritptah.jpg> <./agnodice.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 158--160
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
-<christine.jpg, id=89, 381.425pt x 401.5pt>
+<christine.jpg, id=90, 381.425pt x 401.5pt>
 File: christine.jpg Graphic file (type jpg)
  <use christine.jpg>
-<maria.jpg, id=91, 457.71pt x 565.11125pt>
+<maria.jpg, id=92, 457.71pt x 565.11125pt>
 File: maria.jpg Graphic file (type jpg)
  <use maria.jpg>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<agnesi.png, id=93, 96.36pt x 115.51155pt>
+<agnesi.png, id=94, 96.36pt x 115.51155pt>
 File: agnesi.png Graphic file (type png)
  <use agnesi.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./christine.jpg>] <laura.png, id=110, 64.5612pt x 92.5056pt>
+<laura.png, id=97, 64.5612pt x 92.5056pt>
 File: laura.png Graphic file (type png)
+ <use laura.png>
 
-<use laura.png> <charlotta.jpg, id=112, 200.75pt x 252.945pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./christine.jpg>] <charlotta.jpg, id=112, 200.75pt x 252.945pt>
 File: charlotta.jpg Graphic file (type jpg)
 
 <use charlotta.jpg>
@@ -647,84 +650,84 @@ File: charlotta.jpg Graphic file (type jpg)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--243
-
- []
-
-[5 <./maria.jpg> <./agnesi.png> <./laura.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 244--249
+Underfull \hbox (badness 10000) in paragraph at lines 222--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--255
+Underfull \hbox (badness 10000) in paragraph at lines 228--233
+
+ []
+
+[5 <./maria.jpg> <./agnesi.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 234--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--261
+Underfull \hbox (badness 10000) in paragraph at lines 240--245
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--267
+Underfull \hbox (badness 10000) in paragraph at lines 246--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--273
+Underfull \hbox (badness 10000) in paragraph at lines 252--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--279
+Underfull \hbox (badness 10000) in paragraph at lines 258--263
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--285
+Underfull \hbox (badness 10000) in paragraph at lines 264--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--291
+Underfull \hbox (badness 10000) in paragraph at lines 270--275
 
  []
 
-[6 <./charlotta.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 292--297
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--303
+[6 <./laura.png (PNG copy)> <./charlotta.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 276--281
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--309
+Underfull \hbox (badness 10000) in paragraph at lines 282--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--315
+Underfull \hbox (badness 10000) in paragraph at lines 288--293
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--321
+Underfull \hbox (badness 10000) in paragraph at lines 294--299
 
  []
 
 
-Overfull \hbox (149.84442pt too wide) in paragraph at lines 368--371
+Underfull \hbox (badness 10000) in paragraph at lines 300--305
+
+ []
+
+
+Overfull \hbox (149.84442pt too wide) in paragraph at lines 353--356
 []\OT1/cmr/m/n/10 by S C Pakrashi.  Asima Chat-ter-jee,  Re-treived from http:/
 /www.ias.ac.in/public/Resources/Initiatives/Women[]in[]Science/Contributors/Cha
 tterjee.pdf 
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 387--388
+Underfull \hbox (badness 1616) in paragraph at lines 372--373
 [] \OT1/cmr/m/n/10 Re-treived from http://health.economictimes.indiatimes.com/n
 ews/hospitals/interview-dr-v-shanta-chairperson-
  []
@@ -733,11 +736,11 @@ ews/hospitals/interview-dr-v-shanta-chairperson-
 Here is how much of TeX's memory you used:
  5460 strings out of 493848
  76351 string characters out of 1152823
- 158127 words of memory out of 3000000
+ 159127 words of memory out of 3000000
  8600 multiletter control sequences out of 15000+50000
  9976 words of font info for 36 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 38i,9n,36p,1054b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,9n,36p,1275b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx1
 2.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/
@@ -746,7 +749,7 @@ texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/font
 s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/publ
 ic/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
 m/cmti10.pfb>
-Output written on knowledge3.pdf (8 pages, 1601346 bytes).
+Output written on knowledge3.pdf (8 pages, 1604329 bytes).
 PDF statistics:
  179 PDF objects out of 1000 (max. 8388607)
  47 named destinations out of 1000 (max. 500000)
