@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.11.5)  25 FEB 2017 17:57
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.11.5)  25 FEB 2017 22:17
 entering extended mode
  %&-line parsing enabled.
 **knowledge3.tex
@@ -363,129 +363,21 @@ Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
-)
-(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
-
-(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
-)
-(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
-Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
-O)
-
-(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
-Package: xcolor-patch 2009/10/02 xcolor patch
-))
-\@linkdim=\dimen118
-\Hy@linkcounter=\count103
-\Hy@pagecounter=\count104
-
-(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
-
-(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)
-(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
-
-(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
-t (HO)
-))
-Package hyperref Info: Hyper figures OFF on input line 2975.
-Package hyperref Info: Link nesting OFF on input line 2980.
-Package hyperref Info: Hyper index ON on input line 2983.
-Package hyperref Info: Plain pages OFF on input line 2990.
-Package hyperref Info: Backreferencing OFF on input line 2995.
-
-Implicit mode ON; LaTeX internals redefined
-Package hyperref Info: Bookmarks ON on input line 3191.
-(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
-\Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 3428.
-
-(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
-Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
-
-(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
-Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
-)
-(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
-Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
-
-(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
- (HO)
-
-(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
-)
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-)))
-\Fld@menulength=\count105
-\Field@Width=\dimen119
-\Fld@charsize=\dimen120
-\Field@toks=\toks25
-Package hyperref Info: Hyper figures OFF on input line 4377.
-Package hyperref Info: Link nesting OFF on input line 4382.
-Package hyperref Info: Hyper index ON on input line 4385.
-Package hyperref Info: backreferencing OFF on input line 4392.
-Package hyperref Info: Link coloring OFF on input line 4397.
-Package hyperref Info: Link coloring with OCG OFF on input line 4402.
-Package hyperref Info: PDF/A mode OFF on input line 4407.
-
-(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
-Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
-)
-\Hy@abspage=\count106
-\c@Item=\count107
-\c@Hfootnote=\count108
-)
-*hyperref using default driver hpdftex*
-(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
-\Fld@listcount=\count109
 ) (./knowledge3.aux)
 \openout1 = `knowledge3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -530,228 +422,211 @@ driver: pdftex
 -----------------------
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
-\scratchdimen=\dimen121
+\scratchcounter=\count103
+\scratchdimen=\dimen118
 \scratchbox=\box28
-\nofMPsegments=\count111
-\nofMParguments=\count112
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count113
-\MPscratchDim=\dimen122
-\MPnumerator=\count114
-\everyMPtoPDFconversion=\toks27
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen119
+\MPnumerator=\count107
+\everyMPtoPDFconversion=\toks26
 )
-Package hyperref Info: Link coloring OFF on input line 15.
- (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
-Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
-
-(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
-Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
-)
-\c@section@level=\count115
-)
-LaTeX Info: Redefining \ref on input line 15.
-LaTeX Info: Redefining \pageref on input line 15.
- (./knowledge3.out)
-(./knowledge3.out)
-\@outlinefile=\write3
-\openout3 = `knowledge3.out'.
-
-\AtBeginShipoutBox=\box29
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
 
  []
 
-<saraswati.png, id=40, 121.95563pt x 155.83218pt>
+<saraswati.png, id=1, 121.95563pt x 155.83218pt>
 File: saraswati.png Graphic file (type png)
  <use saraswati.png>
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./saraswati.png (PNG copy)
->]
-Underfull \hbox (badness 10000) in paragraph at lines 61--64
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-<athena_7.jpg, id=60, 301.125pt x 228.855pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
+
+ []
+
+<athena_7.jpg, id=13, 301.125pt x 228.855pt>
 File: athena_7.jpg Graphic file (type jpg)
  <use athena_7.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+[2 <./saraswati.png (PNG copy)> <./athena_7.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--92
-
- []
-
-[2 <./athena_7.jpg>] <meritptah.jpg, id=71, 240.9pt x 210.7875pt>
+<meritptah.jpg, id=18, 240.9pt x 210.7875pt>
 File: meritptah.jpg Graphic file (type jpg)
-
-<use meritptah.jpg> <agnodice.jpg, id=72, 250.9375pt x 228.855pt>
+ <use meritptah.jpg>
+<agnodice.jpg, id=19, 250.9375pt x 228.855pt>
 File: agnodice.jpg Graphic file (type jpg)
-
-<use agnodice.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+ <use agnodice.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
 [3 <./meritptah.jpg> <./agnodice.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 142--144
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
 
-<christine.jpg, id=90, 381.425pt x 401.5pt>
+<christine.jpg, id=23, 381.425pt x 401.5pt>
 File: christine.jpg Graphic file (type jpg)
  <use christine.jpg>
-<maria.jpg, id=92, 457.71pt x 565.11125pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<maria.jpg, id=24, 457.71pt x 565.11125pt>
 File: maria.jpg Graphic file (type jpg)
  <use maria.jpg>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<agnesi.png, id=94, 96.36pt x 115.51155pt>
+[4] <agnesi.png, id=28, 96.36pt x 115.51155pt>
 File: agnesi.png Graphic file (type png)
  <use agnesi.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<laura.png, id=97, 64.5612pt x 92.5056pt>
+<laura.png, id=30, 64.5612pt x 92.5056pt>
 File: laura.png Graphic file (type png)
  <use laura.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./christine.jpg>] <charlotta.jpg, id=112, 200.75pt x 252.945pt>
+<charlotta.jpg, id=31, 200.75pt x 252.945pt>
 File: charlotta.jpg Graphic file (type jpg)
-
-<use charlotta.jpg>
+ <use charlotta.jpg>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--227
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--233
-
- []
-
-[5 <./maria.jpg> <./agnesi.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 234--239
+[5 <./christine.jpg> <./maria.jpg> <./agnesi.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 233--238
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--245
+Underfull \hbox (badness 10000) in paragraph at lines 239--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--251
+Underfull \hbox (badness 10000) in paragraph at lines 245--250
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--257
+Underfull \hbox (badness 10000) in paragraph at lines 251--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--263
+Underfull \hbox (badness 10000) in paragraph at lines 257--262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--269
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--275
+Underfull \hbox (badness 10000) in paragraph at lines 263--268
 
  []
 
 [6 <./laura.png (PNG copy)> <./charlotta.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 276--281
+Underfull \hbox (badness 10000) in paragraph at lines 269--274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--287
+Underfull \hbox (badness 10000) in paragraph at lines 275--280
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--293
+Underfull \hbox (badness 10000) in paragraph at lines 281--286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--299
+Underfull \hbox (badness 10000) in paragraph at lines 287--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--305
+Underfull \hbox (badness 10000) in paragraph at lines 293--298
 
  []
 
 
-Overfull \hbox (149.84442pt too wide) in paragraph at lines 353--356
+Underfull \hbox (badness 10000) in paragraph at lines 299--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--316
+
+ []
+
+[7]
+Overfull \hbox (149.84442pt too wide) in paragraph at lines 365--368
 []\OT1/cmr/m/n/10 by S C Pakrashi.  Asima Chat-ter-jee,  Re-treived from http:/
 /www.ias.ac.in/public/Resources/Initiatives/Women[]in[]Science/Contributors/Cha
 tterjee.pdf 
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 372--373
+Underfull \hbox (badness 1616) in paragraph at lines 384--385
 [] \OT1/cmr/m/n/10 Re-treived from http://health.economictimes.indiatimes.com/n
 ews/hospitals/interview-dr-v-shanta-chairperson-
  []
 
-[7] [8] (./knowledge3.aux) ) 
+[8] (./knowledge3.aux) ) 
 Here is how much of TeX's memory you used:
- 5460 strings out of 493848
- 76351 string characters out of 1152823
- 159127 words of memory out of 3000000
- 8600 multiletter control sequences out of 15000+50000
+ 2254 strings out of 493848
+ 27842 string characters out of 1152823
+ 90982 words of memory out of 3000000
+ 5510 multiletter control sequences out of 15000+50000
  9976 words of font info for 36 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 38i,9n,36p,1275b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/
-share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-
-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/publ
-ic/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
-m/cmti10.pfb>
-Output written on knowledge3.pdf (8 pages, 1604329 bytes).
+ 27i,9n,32p,1056b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+ti10.pfb>
+Output written on knowledge3.pdf (8 pages, 1601346 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 72 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
