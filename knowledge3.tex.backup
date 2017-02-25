@@ -5,6 +5,7 @@
 \usepackage{graphicx}   % need for figures
 \usepackage{verbatim}   % useful for program listings
 \usepackage{color}      % use if color is used in text
+
   % use for side-by-side figures
 \usepackage{hyperref}  
 %opening
@@ -25,9 +26,9 @@ A few remarkable Indians are Avvaiyar, who was one of the greatest poets of all 
 This paper explores the effort and dedication put forth by the aforementioned personalities with a hope that it will create an inspiration to the present generation female individuals
 \end{abstract}
 \section{Introduction}
-\section{Case-Studies}
+%\section{}
 
-\subsection{Historical Period}
+\section{Historical Period}
 In Vedic period, three Goddesses namely, Illa, Saraswati and Mahi has been quoted for the purpose of acquiring knowledge as \cite{saras}: 
 
 “May Bharati come speeding to our sacrifice and Ila hither awakening our consciousness in human wise, and Saraswati, — three goddesses sit on this blissful seat, doing well the
@@ -195,19 +196,30 @@ Aseema Chatterjee (1917 - 2006) was a notable Indian chemist in the area of orga
 Dr. Anandi Gopal Joshi (1865 - 1887) was the first female to obtain the medicine degree from USA. It was during the time of when Britain ruled India and hence Indians had an awareness of science from the west. As a regular practice those days, children were married at an early age and Anandi was not an exception. Her Husband Gopal Joshi encouraged Anandi to pursue education. She gave birth to a boy while she was fourteen years. But due to the non-availability of medical facilities, the baby could not survive beyond 10 days. This prompted her to pursue medicine and her husband helped her to send to USA for a medical profession. Despite her challenges of poor health, she successfully completed MD in 1886. She returned back to India on 1887 and wanted to open a medical college for women in India. But her health declined and died in 1887  \cite{joshi}.
 
 \newblock
-Shakuntala Devi (1929 - 2013) was the arithmetic prodigy of the century. She is known as the ``human computer'', since she could calculate even a 13X13 digit multiplication in 28 seconds. Her father was a working in a circus and had taught her card tricks, which enabled him to discovered the mathematical trait in her. She did not have a formal school education because of financial constraints. However, it does not deter the spirit of Shakuntala Devi to pursue the love for numbers. She travelled across widely to Europe and USA and exhibited her talent. Her calculation approach was appreciated by the scholars worldwide and her multiplication of 13X13 number was recorded in Guiness Book of Records. \cite{shakuntala}. 
+Shakuntala Devi (1929 - 2013) was the arithmetic prodigy of the century. She is known as the ``human computer'', since she could calculate even a 13X13 digit multiplication in 28 seconds. Her father was a working in a circus and had taught her card tricks, which enabled him to discovered the mathematical trait in her. She did not have a formal school education because of financial constraints. However, it does not deter the spirit of Shakuntala Devi to pursue the love for numbers. She travelled across widely to Europe and USA and exhibited her talent. Her calculation approach was appreciated by the scholars worldwide and her multiplication of 13X13 number was recorded in Guiness Book of Records \cite{shakuntala}. 
 
 \newblock
 Anna Mani (1918 - 2001) was a physicist and a meterologist, who made important contributions in meterological instrumentation. She was influenced in her younger days by Gandhian movement and vowed to wear kh\={a}di, a typical variety of cloth made by Indians. She initially wanted to pursue medicine, but shifted her career to physics since it appealed her more. She pursued her degree from Presidency college and did research under Sir.C.V. Raman. Since she did not have masters degree, she could not get Ph.D at that time. She then proceeded to Imperial college, London for a degree in meterological studies and then returned back to India. She was the deputy director of Indian Meterological department and authored a number of papers in the area of meterological instrumentation. \cite{anna}
 
-\subsection{Current Era}
-Dr. Muthulakshmi Reddy (July 1886 – 22 July 1968) was one of the pioneers in India to be the first in many sectors: ``first female student to be admitted into a men's college, the first woman House Surgeon in the Government Maternity and Ophthalmic Hospital, the first woman legislator in British India, the first Chairperson of the State Social Welfare Advisory Board, the first woman Deputy President of the Legislative Council, and the first Alderwoman of the Madras Corporation Avvai Home'' - \cite{reddy}. 
-
+Dr. Muthulakshmi Reddy (July 1886 – 22 July 1968) was one of the pioneers in India to be the first in many sectors: ``first female student to be admitted into a men's college, the first woman House Surgeon in the Government Maternity and Ophthalmic Hospital, the first woman legislator in British India, the first Chairperson of the State Social Welfare Advisory Board, the first woman Deputy President of the Legislative Council, and the first Alderwoman of the Madras Corporation Avvai Home'' \cite{reddy}. Despite the pressure of stopping the education citing gender as a reason, Dr. Muthulakshmi stood against odds and completed the degree of medicine from Madras Medical College. She did not stop there, but entered into political career and also was a social reformer. Her proof of success stands today as Adayar Cancer Institute, which she initiated for the benefit of masses. This reform is presently headed out by another female physician namely, Dr.Shantha \cite{shantha}. 
 
 
 
 \subsection{Current Era}
 \section{Analysis}
+
+\begin{table}
+\caption{Analysis of a few female personalities}
+\centering
+ \begin{tabular}{|l|l|l|l|l|}
+  \hline
+  S.No & Name & Period & Area of Excellence & Challenges Faced \\
+  \hline
+ 
+ \end{tabular}
+
+\end{table}
+
 
 \newblock
 Name : \\
@@ -355,7 +367,7 @@ Dall, Caroline Wells Healey,
 \newblock{Retreived from http://www.thebetterindia.com/83063/anna-mani-scientist-meteorology-ozone-wind-energy/}
 
 \bibitem{reddy}
-\newblock{Retreived from https://en.wikipedia.org/wiki/Muthulakshmi_Reddi}
+\newblock{Retreived from https://en.wikipedia.org/wiki/Muthulakshmi\_Reddi}
 
 \bibitem{shantha}
 \newblock{Retreived from http://health.economictimes.indiatimes.com/news/hospitals/interview-dr-v-shanta-chairperson-cancer-institute-wia-adyar-chennai/49182834}

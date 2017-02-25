@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.11.5)  25 FEB 2017 13:53
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.11.5)  25 FEB 2017 14:10
 entering extended mode
  %&-line parsing enabled.
-**knowledge2.tex
-(./knowledge2.tex
+**knowledge3.tex
+(./knowledge3.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
@@ -469,23 +469,23 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 (/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
 \Fld@listcount=\count109
-) (./knowledge2.aux)
-\openout1 = `knowledge2.aux'.
+) (./knowledge3.aux)
+\openout1 = `knowledge3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -541,7 +541,7 @@ driver: pdftex
 \MPnumerator=\count114
 \everyMPtoPDFconversion=\toks27
 )
-Package hyperref Info: Link coloring OFF on input line 14.
+Package hyperref Info: Link coloring OFF on input line 15.
  (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
@@ -550,24 +550,24 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count115
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
- (./knowledge2.out)
-(./knowledge2.out)
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+ (./knowledge3.out)
+(./knowledge3.out)
 \@outlinefile=\write3
-\openout3 = `knowledge2.out'.
+\openout3 = `knowledge3.out'.
 
 \AtBeginShipoutBox=\box29
  <saraswati.png, id=40, 121.95563pt x 155.83218pt>
 File: saraswati.png Graphic file (type png)
 
 <use saraswati.png>
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--52
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
 
  []
 
@@ -575,34 +575,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--52
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./saraswati.png (PNG copy)
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--65
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
 
  []
 
-<athena_7.jpg, id=57, 301.125pt x 228.855pt>
+<athena_7.jpg, id=58, 301.125pt x 228.855pt>
 File: athena_7.jpg Graphic file (type jpg)
  <use athena_7.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--84
+Underfull \hbox (badness 10000) in paragraph at lines 85--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
  []
 
 [2 <./athena_7.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
 
  []
 
@@ -612,144 +612,143 @@ File: meritptah.jpg Graphic file (type jpg)
 <agnodice.jpg, id=72, 250.9375pt x 228.855pt>
 File: agnodice.jpg Graphic file (type jpg)
  <use agnodice.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 124--126
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
  []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
-
- []
-
-<christine.jpg, id=74, 381.425pt x 401.5pt>
-File: christine.jpg Graphic file (type jpg)
- <use christine.jpg>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3 <./meritptah.jpg> <./agnodice.jpg>]
-<maria.jpg, id=84, 457.71pt x 565.11125pt>
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+
+ []
+
+<christine.jpg, id=89, 381.425pt x 401.5pt>
+File: christine.jpg Graphic file (type jpg)
+ <use christine.jpg>
+<maria.jpg, id=91, 457.71pt x 565.11125pt>
 File: maria.jpg Graphic file (type jpg)
  <use maria.jpg>
-<agnesi.png, id=86, 96.36pt x 115.51155pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<agnesi.png, id=93, 96.36pt x 115.51155pt>
 File: agnesi.png Graphic file (type png)
  <use agnesi.png>
-<laura.png, id=89, 64.5612pt x 92.5056pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./christine.jpg>] <laura.png, id=110, 64.5612pt x 92.5056pt>
 File: laura.png Graphic file (type png)
- <use laura.png>
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<charlotta.jpg, id=91, 200.75pt x 252.945pt>
+<use laura.png> <charlotta.jpg, id=112, 200.75pt x 252.945pt>
 File: charlotta.jpg Graphic file (type jpg)
- <use charlotta.jpg>
+
+<use charlotta.jpg>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./christine.jpg> <./maria.jpg> <./agnesi.png>] [5 <./laura.png (PNG copy)> 
-<./charlotta.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 211--216
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--243
+
+ []
+
+[5 <./maria.jpg> <./agnesi.png> <./laura.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 244--249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--222
+Underfull \hbox (badness 10000) in paragraph at lines 250--255
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--228
+Underfull \hbox (badness 10000) in paragraph at lines 256--261
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--234
+Underfull \hbox (badness 10000) in paragraph at lines 262--267
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--240
+Underfull \hbox (badness 10000) in paragraph at lines 268--273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--246
+Underfull \hbox (badness 10000) in paragraph at lines 274--279
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--252
+Underfull \hbox (badness 10000) in paragraph at lines 280--285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--258
+Underfull \hbox (badness 10000) in paragraph at lines 286--291
+
+ []
+
+[6 <./charlotta.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 292--297
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--264
+Underfull \hbox (badness 10000) in paragraph at lines 298--303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--270
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 271--276
+Underfull \hbox (badness 10000) in paragraph at lines 304--309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--282
+Underfull \hbox (badness 10000) in paragraph at lines 310--315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--288
+Underfull \hbox (badness 10000) in paragraph at lines 316--321
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--294
-
- []
-
-
-Overfull \hbox (149.84442pt too wide) in paragraph at lines 341--344
+Overfull \hbox (149.84442pt too wide) in paragraph at lines 368--371
 []\OT1/cmr/m/n/10 by S C Pakrashi.  Asima Chat-ter-jee,  Re-treived from http:/
 /www.ias.ac.in/public/Resources/Initiatives/Women[]in[]Science/Contributors/Cha
 tterjee.pdf 
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 360--361
+Underfull \hbox (badness 1616) in paragraph at lines 387--388
 [] \OT1/cmr/m/n/10 Re-treived from http://health.economictimes.indiatimes.com/n
 ews/hospitals/interview-dr-v-shanta-chairperson-
  []
 
-[7] (./knowledge2.aux) ) 
+[7] [8] (./knowledge3.aux) ) 
 Here is how much of TeX's memory you used:
- 5454 strings out of 493848
- 76300 string characters out of 1152823
- 155095 words of memory out of 3000000
- 8596 multiletter control sequences out of 15000+50000
- 9522 words of font info for 34 fonts, out of 3000000 for 9000
+ 5460 strings out of 493848
+ 76351 string characters out of 1152823
+ 158127 words of memory out of 3000000
+ 8600 multiletter control sequences out of 15000+50000
+ 9976 words of font info for 36 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 38i,7n,36p,1054b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
-m/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pf
-b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/shar
-e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texl
-ive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/a
-msfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb>
-Output written on knowledge2.pdf (7 pages, 1598643 bytes).
+ 38i,9n,36p,1054b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmti10.pfb>
+Output written on knowledge3.pdf (8 pages, 1601346 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
+ 179 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
