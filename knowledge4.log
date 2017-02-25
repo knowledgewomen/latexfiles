@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.20)  26 FEB 2017 00:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.20)  26 FEB 2017 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -895,20 +895,20 @@ l.321
       
 ? 
 [9 <./ada.jpg> <./grace-hopper.jpg> <./hedy.jpg>]
-Overfull \hbox (149.84442pt too wide) in paragraph at lines 408--411
+Overfull \hbox (149.84442pt too wide) in paragraph at lines 427--430
 []\OT1/cmr/m/n/10 by S C Pakrashi.  Asima Chat-ter-jee,  Re-treived from http:/
 /www.ias.ac.in/public/Resources/Initiatives/Women[]in[]Science/Contributors/Cha
 tterjee.pdf 
  []
 
 [10]
-Underfull \hbox (badness 1616) in paragraph at lines 427--428
+Underfull \hbox (badness 1616) in paragraph at lines 446--447
 [] \OT1/cmr/m/n/10 Re-treived from http://health.economictimes.indiatimes.com/n
 ews/hospitals/interview-dr-v-shanta-chairperson-
  []
 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.433 ...ography.com/people/ada-lovelace-20825323#
+l.452 ...ography.com/people/ada-lovelace-20825323#
                                                   synopsis}
 ? 
 
@@ -918,22 +918,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.443 \end{document}
+l.462 \end{document}
                     
 ? 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 443.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 462.
 [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 443.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 462.
  (./knowledge4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 443.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 443.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 462.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 462.
 Package rerunfilecheck Info: File `knowledge4.out' has not changed.
 (rerunfilecheck)             Checksum: 756F4D68A7B6BC5BAD54A52CF16ECA73;566.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 443.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 462.
  )
 (\end occurred inside a group at level 1)
 
@@ -942,11 +938,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 443.
 Here is how much of TeX's memory you used:
  6667 strings out of 494953
  94642 string characters out of 6180977
- 193238 words of memory out of 5000000
+ 193239 words of memory out of 5000000
  9796 multiletter control sequences out of 15000+600000
  9976 words of font info for 36 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,8n,32p,1275b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,32p,1275b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></u
@@ -955,7 +951,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on knowledge4.pdf (11 pages, 2708971 bytes).
+Output written on knowledge4.pdf (11 pages, 2709080 bytes).
 PDF statistics:
  233 PDF objects out of 1000 (max. 8388607)
  188 compressed objects within 2 object streams
